@@ -35,7 +35,7 @@
             label.text = @"懵逼niquedingbushigaowo";
             
             view.backgroundColor = [UIColor colorWithRed:arc4random() % 256 / 255.0 green:arc4random() % 256 / 255.0 blue:arc4random() % 256 / 255.0 alpha:1.0];
-            
+            //wojiushishika
             [view addSubview:label];
             [self.window addSubview:view];
         }
